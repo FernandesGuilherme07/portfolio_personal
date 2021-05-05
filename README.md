@@ -8,10 +8,8 @@ Este projeto consiste em mostrar meus recentes e futuros trabalhos realizados ao
 
 ## ✨ Demonstração
 
-Veja abaixo uma foto do projeto.
-[![Image from Gyazo](https://i.gyazo.com/f289efe4c5f076552eaf42b78f8fd838.png)](https://gyazo.com/f289efe4c5f076552eaf42b78f8fd838)
 
-Você pode conferir o resultado final em: https://caioohtml.com
+Você pode conferir o resultado final em: https://guilhermefernandes-portfoly.vercel.app/
 
 ## 🎯 Objetivo do projeto
 
