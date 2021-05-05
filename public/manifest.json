@@ -1,0 +1,21 @@
+{
+  "name": "Caio Augusto | Front-end Developer",
+  "short_name": "Caio Augusto",
+  "icons": [
+    {
+      "src": "/img/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#ffff",
+  "description": "Portfolio where I show my projects",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#fff"
+}
