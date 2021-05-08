@@ -12,8 +12,7 @@ const PortfolioItems = () => {
               project_image,
               project_name,
               project_description,
-              project_url,
-              project_git,
+              project_url
             },
             index
           ) => (
@@ -36,7 +35,6 @@ const PortfolioItems = () => {
                     Visit <span>→</span>
                   </a>
                   <a
-                    href={project_git}
                     target="_blank"
                     rel="noopener noreferrer"
                   >
