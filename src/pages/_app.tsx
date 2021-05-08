@@ -14,7 +14,7 @@ const App = ({ Component, pageProps }: AppProps) => {
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet" />
         <title> Guilherme Fernandes| Front-end Developer</title>
-        <meta name="title" content="Caio Augusto | Front-end Developer" />
+        <meta name="title" content="Guilherme Fernandes| Front-end Developer" />
         <meta
           name="description"
           content="Front-end Developer"
@@ -37,7 +37,7 @@ const App = ({ Component, pageProps }: AppProps) => {
           content="Front-end Developer"
         />
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://caiohtml.com/" />
+
         <meta
           property="twitter:title"
           content="Guilherme Fernandes | Front-end Developer"
@@ -51,7 +51,7 @@ const App = ({ Component, pageProps }: AppProps) => {
           content="front-end, developer front-end, ui ux designer, graphic designer,
             developer front-end freelancer, developer reactjs, developer javascript,
             javascript, react, reactjs, typescript, strapi, api, dev, nextjs, cypress, tests,
-            caioaugusto, caioaugusto, caiohtml, caio augusto, freelancer, freela"
+            guilhermefernandes, guilhermefernandes, guilhermehtml, Guilherme Fernandes, freelancer, freela"
         />
         <meta name="robots" content="nofollow" />
         <meta name="revisit-after" content="1 day" />

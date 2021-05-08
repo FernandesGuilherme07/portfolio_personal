@@ -30,16 +30,12 @@ const PortfolioItems = () => {
                   <a
                     href={project_url}
                     target="_blank"
-                    rel="noopener noreferrer"
+
                   >
                     Visit <span>→</span>
                   </a>
-                  <a
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Source
-                  </a>
+
+
                 </S.WorkItemButton>
               </S.Wrapper>
               <S.WorkItemImage src={project_image} alt="Project" />
