@@ -51,7 +51,8 @@ const App = ({ Component, pageProps }: AppProps) => {
           content="front-end, developer front-end, ui ux designer, graphic designer,
             developer front-end freelancer, developer reactjs, developer javascript,
             javascript, react, reactjs, typescript, strapi, api, dev, nextjs, cypress, tests,
-            guilhermefernandes, guilhermefernandes, guilhermehtml, Guilherme Fernandes, freelancer, freela"
+            guilhermefernandes, guilhermefernandes, guilhermehtml, Guilherme Fernandes, freelancer, freela,
+            portifolio, portifolio guilherme fernandes, portifolio"
         />
         <meta name="robots" content="nofollow" />
         <meta name="revisit-after" content="1 day" />
