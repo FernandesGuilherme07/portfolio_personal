@@ -22,7 +22,7 @@ const AboutSection = () => {
           first used a computer.
         </S.AboutTexts>
         <S.AboutTexts>
-          I started as a Front End Developer on 10/01/2020. Since then I have been
+          I started as a Front End Developer on 01/10/2020. Since then I have been
           dedicating about 4 hours a day to studies.
         </S.AboutTexts>
         <S.AboutTexts>
