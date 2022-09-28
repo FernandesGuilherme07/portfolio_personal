@@ -20,7 +20,7 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-scroll": "^1.8.1",
-    "styled-components": "^5.2.3"
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
     "@babel/core": "^7.13.13",
@@ -29,7 +29,7 @@
     "@types/node": "^15.0.1",
     "@types/react": "^17.0.4",
     "@types/react-scroll": "^1.8.2",
-    "@types/styled-components": "^5.1.9",
+    "@types/styled-components": "^5.1.26",
     "@typescript-eslint/eslint-plugin": "^4.20.0",
     "@typescript-eslint/parser": "^4.22.0",
     "babel-loader": "^8.2.1",
